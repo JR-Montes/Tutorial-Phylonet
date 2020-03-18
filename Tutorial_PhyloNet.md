@@ -99,7 +99,7 @@ end;
 
 ```
 
-**NOTA**. Si desea reducir el número de terminales te recomiendo leer el tutorial de [SVDquartets](https://github.com/JR-Montes/Tutorial-BeforePhylo/blob/master/Tutorial%20BeforePhylo.md) en este repositorio. 
+**NOTA**. Si desea reducir el número de terminales te recomiendo leer el tutorial de [Beforephylo](https://github.com/JR-Montes/Tutorial-BeforePhylo/blob/master/Tutorial%20BeforePhylo.md) en este repositorio. 
 
 
 **NOTA** Si deseas correr una tanda de alineamientos en RAxML te recomiendo leer el tutorial de [RAxML](https://github.com/JR-Montes/RAxML-on-Single-and-Multilocus/blob/master/RAxML_Multilocus.md) en este repositorio.
